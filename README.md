@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **PUG, express, mongo**
+- 💬 Ask me about **PUG, express, mongo , python , data analysis**
 
 - ⚡ Fun fact **I think I'm Developer**
 
