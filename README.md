@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Dosaya</h1>
-<h3 align="center">A passionate Student</h3>
+<h3 align="center">A Passionate Web Developer/Ml Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi0444&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi0444" /> </p>
 
