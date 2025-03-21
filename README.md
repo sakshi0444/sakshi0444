@@ -1,25 +1,51 @@
-<h1 align="center">Hi 👋, I'm Sakshi Dosaya</h1>
-<h3 align="center">A Passionate Web Developer/Ml Developer</h3>
+# Hi there, I'm SAKSHI DOSAYA! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi0444&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi0444" /> </p>
+## 🚀 About Me
+Welcome to my GitHub! I'm a passionate developer who thrives on building innovative solutions. I specialize in **React** for the frontend and **Node.js** for the backend, crafting seamless and scalable applications. Whether it's developing robust APIs, optimizing performance, designing interactive UIs, or exploring the potential of **AI and Machine Learning**, I'm always up for a challenge.
 
-- 🌱 I’m currently learning **DSA**
+## 🔥 What I Do
+- 🖥️ **Frontend Development** – Crafting beautiful, user-friendly interfaces with React, Tailwind CSS, and modern UI frameworks.
+- ⚙️ **Backend Engineering** – Building scalable RESTful & GraphQL APIs with Node.js, Express, and database solutions like MongoDB & PostgreSQL.
+- 🤖 **AI & Machine Learning** – Exploring deep learning, NLP, and data science to build intelligent applications.
+- 🛠 **Full-Stack Magic** – Bridging the gap between frontend and backend to create smooth, high-performance applications.
+- 📦 **Open Source** – Contributing to and maintaining open-source projects whenever I can.
 
-- 💬 Ask me about **PUG, express, mongo , python , data analysis**
+## 🛠 Tech Stack
+🚀 **Languages & Frameworks:**
+- JavaScript (ES6+), TypeScript
+- React.js, Next.js
+- Node.js, Express.js
+- Python (for AI/ML), TensorFlow, PyTorch
+- Tailwind CSS, Styled Components
+- MongoDB, PostgreSQL, Firebase
 
-- ⚡ Fun fact **I think I'm Developer**
+🔧 **Tools & DevOps:**
+- Git & GitHub
+- Docker, CI/CD
+- VS Code (because it's awesome!)
+- Postman, Insomnia
+- Jupyter Notebook, Google Colab
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sakshi_dosaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshi_dosaya" height="30" width="40" /></a>
-<a href="https://instagram.com/s.a.k.s.h.i._24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.a.k.s.h.i._24" height="30" width="40" /></a>
-</p>
+## 📈 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🌱 Currently Learning
+- Advanced TypeScript Patterns & Best Practices
+- AI/ML Algorithms & Deep Learning Techniques
+- Cloud Services (AWS, GCP)
+- Web3 & Blockchain Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi0444&show_icons=true&locale=en&layout=compact" alt="sakshi0444" /></p>
+## 🎯 Goals for 2025
+- Contribute to more open-source projects.
+- Build a SaaS product from scratch.
+- Improve my DevOps & Cloud knowledge.
+- Work on AI-powered web applications.
+- Mentor aspiring developers & share knowledge.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshi0444&show_icons=true&locale=en" alt="sakshi0444" /></p>
+## 💬 Let's Connect!
+- 💼 **LinkedIn:** www.linkedin.com/in/sakshi-dosaya
+- 🐦 **Twitter:** https://x.com/sakshi_dosaya
+- 📧 **Email:** dosayasakshi35@gmail.com
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi0444&" alt="sakshi0444" /></p>
+🚀 _"Code. Innovate. Repeat."_
+
